@@ -1,0 +1,5 @@
+.dropboxignore
+.vscode
+dist
+dist_preview
+node_modules
